@@ -1,1 +1,1 @@
-Example copied from: ... can't find the link
+Example copied from https://developer.nvidia.com/how-to-cuda-python
